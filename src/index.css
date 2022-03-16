@@ -3,8 +3,13 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  color: rgb(255, 255, 255);
+   
+}
+.Index{
+  background-color: #0088d1;
+  background-image: url("https://www.transparenttextures.com/patterns/diamond-upholstery.png");
+ 
 }
 
 code {

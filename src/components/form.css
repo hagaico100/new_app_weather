@@ -1,0 +1,16 @@
+form{
+margin-right: 40%;
+}
+form input{
+    text-align: center;
+    background-color: transparent;
+    color: #fff;
+    border-radius: 0px;
+    border: 0;
+    border-bottom: 2px solid white;
+    width: 30%;
+    
+}
+::placeholder{
+    color: #fff;
+}
